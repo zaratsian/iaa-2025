@@ -5,7 +5,7 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2025
 ---
 ## IAA Module - Session 1 - Course Intro
 
-[**Slides**]()
+[**Slides**](https://docs.google.com/presentation/d/1CC03MXct8pW9DblZ4i7sICcYlbXg81xgyB1DLtDh_ig/edit?usp=sharing)
 
 * Intro and Module Agenda
 * Class Poll
