@@ -24,6 +24,7 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2025
 * BigQuery (Serverless SQL)
 * [BigQueryML](https://cloud.google.com/bigquery-ml/docs/introduction)
 * Google Cloud Firestore (NoSQL)
+* [Google BigQuery Sandbox](https://console.cloud.google.com/bigquery)
 
 **Assignments**
 * [Assignment 1 SQL](./session_02/Assignment_1_SQL.md)
