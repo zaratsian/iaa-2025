@@ -50,12 +50,15 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2025
 * Building and deploying Spark machine learning models
 * Considerations for ML in distributed environments
 * Spark Code Walk-through (within Google Colab)
+* Notebook - [PySpark Simple ML Pipeline](https://colab.research.google.com/drive/1J1KDnUp694H4C-jYYSks-Sj84tQJgxpe?authuser=1#scrollTo=5-7vRh7EGS30)
+* Notebook - [Pyspark SQL](https://colab.research.google.com/drive/1WLCZw3Ef57dKfW1cMZQIuI6NT1ZYym-l?authuser=1#scrollTo=upqpisH2IoMy)
+* Notebook - [PySpark NFL Play Predictions](https://colab.research.google.com/drive/1MeES47R-35fiKsOOdXQlu2YD4bFp5qj1?authuser=1#scrollTo=8gAjWzfss5nB)
 
 **Assignment**
 * [Assignment 3 - SparkML](https://colab.research.google.com/drive/1AVRfN0SUVBiX5V7YpaMyn4BFu4dmr3Ht?usp=sharing)
   - Due on Wednesday, March 19 at 11:59pm EST
   - Please complete as an individual assignment.
-  - Save the code as .txt or .py and upload to https://h-scoring-116629923513.us-central1.run.app/spark
+  - Save your code as .txt or .py and upload to https://h-scoring-116629923513.us-central1.run.app/spark
 
 ---
 ## IAA Module - Session 4 - Cloud Services for Generative AI
