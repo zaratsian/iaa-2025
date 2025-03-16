@@ -63,18 +63,24 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2025
 ---
 ## IAA Module - Session 4 - Cloud Services for Generative AI
 
-[**Slides**]()
+[**Slides**](https://docs.google.com/presentation/d/1tMwEf6bC5CYKCqaFMnJvEAVhoVe8rNujV_OelGFInuA/edit?usp=sharing)
 
 * [GenAI on Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview)
-* [Google Gemini Multimodal Models](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview)
+* [Google Generative AI Models](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
+* [Google Gemini 2.0 Quickstart](https://cloud.google.com/vertex-ai/generative-ai/docs/gemini-v2)
+* [Overview of Google Cloud Model Garden](https://cloud.google.com/vertex-ai/generative-ai/docs/model-garden/explore-models)
 * [Langchain](https://python.langchain.com/docs/get_started/introduction)
 * [Huggingface Models](https://huggingface.co/models)
 * [Langchain Integration with Google Cloud](https://python.langchain.com/docs/integrations/platforms/google)
 * [Google Gemma Open Model](https://ai.google.dev/gemma) (on Huggingface: [Gemma](https://huggingface.co/google))
 
 **Assignment**
-
-TBD
+* [Assignment 4 - GenAI](./session_04/genai_assignment.md)
+  - Due on Friday, March 21 at 11:59pm EST
+  - Please complete as a Team (homework groups) assignment.
+  - Deliverables:
+    1. Email me a screen recording (video) of you using the app. I prefer that video be uploaded to Google Drive and shared as a link, but you can share with me howevever is easiest. This can be a quick screen recording, don't worry about getting it perfect, but rather I just want to see how the app works and how you interact with it. 
+    2. Email me a .zip of your code so that I can review it (I will consolidate and share all projects with the rest of the IAA students for learning purposes). 
 
 ---
 ## IAA Module - Session 5 - Cloud Machine Learning
