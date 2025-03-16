@@ -13,7 +13,7 @@
 * Short demo video showing how you interact with the code (email d.zaratsian@gmail.com the link to your video)
 * Working code (emailed to d.zaratsian@gmail.com as a .zip)
 
-### Stretch Goals (optional, but some ideas):
+### Stretch Goals (optional, but here are some ideas if you want to do more than what was asked):
 * **LLM chaining/agents:** Combine multiple LLMs or leverage AI agents.
 * **Multimodal features:** Include video, image, or audio search or understanding as part of your AI tool.
 * **UI:** Develop a UI potentially using Streamlit, a JS framework, or whatever you can spin up quickly.
