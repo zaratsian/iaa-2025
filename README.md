@@ -73,6 +73,7 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2025
 * [Huggingface Models](https://huggingface.co/models)
 * [Langchain Integration with Google Cloud](https://python.langchain.com/docs/integrations/platforms/google)
 * [Google Gemma Open Model](https://ai.google.dev/gemma) (on Huggingface: [Gemma](https://huggingface.co/google))
+* [Example Notebook for Simple LLM call for an Open Model](https://colab.research.google.com/drive/10im09lf9BuZI67lIvbmLDNg8tH9HfPpK?usp=sharing)
 
 **Assignment**
 * [Assignment 4 - GenAI](./session_04/genai_assignment.md)
