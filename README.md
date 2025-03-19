@@ -86,7 +86,7 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2025
 ---
 ## IAA Module - Session 5 - Cloud Machine Learning
 
-[**Slides**]()
+[**Slides**](https://docs.google.com/presentation/d/11Eu-KjMMDK98c_bMu4qhPhCL4j1wyeOVMiB9bJFONQM/)
 
 * Overview of Google Cloud Machine Learning Services
 * [AutoML](https://cloud.google.com/automl)
