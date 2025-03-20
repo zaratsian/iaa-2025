@@ -77,7 +77,8 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2025
 
 **Assignment**
 * [Assignment 4 - GenAI](./session_04/genai_assignment.md)
-  - Due on Friday, March 21 at 11:59pm EST
+  - This is an **Optional** assignment. For any teams that would like to submit it, it will be counted as bonus.
+  - Due on Monday, March 24 at 11:59pm EST
   - Please complete as a Team (homework groups) assignment.
   - Deliverables:
     1. Email me a screen recording (video) of you using the app. I prefer that video be uploaded to Google Drive and shared as a link, but you can share with me howevever is easiest. This can be a quick screen recording, don't worry about getting it perfect, but rather I just want to see how the app works and how you interact with it. 
@@ -98,7 +99,7 @@ Cloud AI & Machine Learning - Dan Zaratsian, March 2025
 ---
 ## IAA Module - Session 6 - Cloud Services for ML & Serverless
 
-[**Slides**]()
+[**Slides**](https://docs.google.com/presentation/d/1avRm-Ezi4Zj4GiAMR55OgfWN13C7pnvWy6Ck4kya7zQ/edit?usp=sharing)
 
 * Overview of Google Cloud Services
 * [Cloud Functions](https://cloud.google.com/functions)
